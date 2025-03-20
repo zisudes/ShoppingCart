@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.util.ResourceBundle;
 
-public class ShoppingCartApp {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Select a language : ");
