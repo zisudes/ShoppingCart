@@ -9,7 +9,7 @@ pipeline {
             // Define Docker Hub repository name
             DOCKERHUB_REPO = 'ash4docdesk/shoppingcartapp'
             // Define Docker image tag
-            DOCKER_IMAGE_TAG = 'latest_v2'
+            DOCKER_IMAGE_TAG = 'latest_v3'
         }
     stages {
         stage('Checkout') {
